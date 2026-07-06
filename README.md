@@ -32,7 +32,7 @@ This project analyzes the New York City Airbnb market from the perspective of a 
 
 ## Repository
 
-- 📓 `Airbnb_reorganized.ipynb` – Complete analysis
+- 📓 `Airbnb_Analysis.ipynb` – Complete analysis
 - 📄 `Airbnb_Report.pdf` – Business report
 
 ## Author
